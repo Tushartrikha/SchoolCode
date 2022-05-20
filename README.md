@@ -1,2 +1,2 @@
-# SchoolCode
-HTML CSS School code
+# Sch_Web
+School Website Using HTML and CSS
